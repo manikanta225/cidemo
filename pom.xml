@@ -7,7 +7,7 @@
     <packaging>war</packaging>
 	<version>0.0.5</version>
 	<name>petclinic</name>
-	<url>http://maven.apache.org</url>
+	
 
 
     <properties>
