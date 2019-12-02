@@ -4,10 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.springframework.samples</groupId>
     <artifactId>spring-petclinic</artifactId>
-    <name>petclinic</name>
     <packaging>war</packaging>
-    <version>0.0.5</version>
-     <url>http://maven.apache.org</url>
+	<version>0.0.5</version>
+	<name>petclinic</name>
+	<url>http://maven.apache.org</url>
 
 
     <properties>
