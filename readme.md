@@ -51,7 +51,7 @@ File -> Import -> Maven -> Existing Maven project
 ```
 
 
-## Looking for something in particular??
+## Looking for something in particular?
 
 <table>
   <tr>
